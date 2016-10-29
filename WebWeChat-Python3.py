@@ -484,6 +484,3 @@ class WebWeChat(object):
                     'readerapp', 'shakeapp', 'tmessage', 'userexperience_alarm', 'voip', 'weibo', 'weixin',
                     'weixinreminder', 'wxid_novlwrv3lqwv11', 'wxitil']
 
-
-wwc = WebWeChat()
-wwc.run()
